@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1011317621010",
+    "project_id": "chatzy-52fa1",
+    "storage_bucket": "chatzy-52fa1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011317621010:android:a1f5df146c04b780b2f3cb",
+        "android_client_info": {
+          "package_name": "com.example.chatzy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyvXB65KHyxLVzxJbUnDjsRcDWlpIC1dY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
